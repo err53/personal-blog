@@ -1,7 +1,6 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
 ---
 
 I am a highschool student, planning to enter the field of Computer Science.
