@@ -3,6 +3,7 @@ template: page
 title: About me
 slug: about
 draft: false
+socialImage: ""
 ---
 
 I am a high-school student, planning to enter the field of Computer Science in post-secondary and beyond.

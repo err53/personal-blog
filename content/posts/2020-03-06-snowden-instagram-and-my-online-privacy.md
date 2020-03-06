@@ -8,6 +8,7 @@ description: My experience reducing my digital footprint
 category: privacy
 tags:
   - privacy
+socialImage: "/media/surveillance.jpg"
 ---
 **TL;DR: I left (part) of the internet, and cut back on the information I due to privacy reasons.**
 
