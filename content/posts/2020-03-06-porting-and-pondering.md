@@ -2,7 +2,7 @@
 template: post
 title: Porting and Pondering
 slug: porting-pondering
-draft: true
+draft: false
 date: 2020-03-06T02:03:56.900Z
 description: 'TODO: Site'
 category: update
