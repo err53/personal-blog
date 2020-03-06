@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Jason Huang',
     photo: '/photo.png',
-    bio: 'Grade 11 Highschool Student. Studying CS, Physics. Interested in InfoSec, privacy, open-source-software',
+    bio: 'Grade 11 Highschool Student. Studying CS, Physics. Interested in infosec, privacy, open-source-software',
     contacts: {
       email: '',
       facebook: '',
