@@ -2,7 +2,7 @@
 template: post
 title: 'Snowden, Instagram, and my online privacy'
 slug: online-privacy
-draft: true
+draft: false
 date: 2019-10-28T04:00:00.000Z
 description: My experience reducing my digital footprint
 category: privacy
