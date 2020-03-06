@@ -1,7 +1,8 @@
 ---
-title: "About me"
-template: "page"
-socialImage: ""
+template: page
+title: About me
+slug: about
+draft: false
 ---
 
 I am a highschool student, planning to enter the field of Computer Science.
