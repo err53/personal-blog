@@ -1,6 +1,8 @@
 ---
-title: "Contact me"
-template: "page"
+template: page
+title: Contact me
+slug: contact
+draft: false
 ---
 
 See the sidebar for my various social media accounts, or shoot me an email at 
