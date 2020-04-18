@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jhthenerd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jasonhuang.netlify.app
+  * I am jhthenerd (https://keybase.io/jhthenerd) on keybase.
+  * I have a public key ASCbqoul4LwJd8pBNbEkFZ2P697WGGam50pZQI7v3ZPVnwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012071efcbcc27c4cfce73d819c970bfb7e9868ea4e7eb6645c5c5d4e4a428a998cf0a",
+      "host": "keybase.io",
+      "kid": "01209baa8ba5e0bc0977ca4135b124159d8febded61866a6e74a59408eefdd93d59f0a",
+      "uid": "e9204cc6db4e29b89d19447afa449319",
+      "username": "jhthenerd"
+    },
+    "merkle_root": {
+      "ctime": 1587241181,
+      "hash": "dd0222762467db60815035225e8fcec20f01078ece46c57335fc2570f7c0b8252739d0966a6890e9de99b95fb47622da2ca1257ae7ce3637cd96a5c2fd09ddb5",
+      "hash_meta": "27a714855cde928643eca67da3ff1be435f01577e4b2ebbdd3809d06c0e26eeb",
+      "seqno": 15971289
+    },
+    "service": {
+      "entropy": "df98gZt1NGdnpFgVNbIilXfM",
+      "hostname": "jasonhuang.netlify.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.0"
+  },
+  "ctime": 1587241194,
+  "expire_in": 504576000,
+  "prev": "2b11e19b364753dc2add384eead2e986d342b5a5c4f813341e30fdbcbe4d7056",
+  "seqno": 110,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm6qLpeC8CXfKQTWxJBWdj+ve1hhmpudKWUCO792T1Z8Kp3BheWxvYWTESpcCbsQgKxHhmzZHU9wq3ThO6tLphtNCtaXE+BM0HjD9vL5NcFbEIM1CZpV23OPS37EpNc7cQ22Ec2eYHnN7YqaTd8XRSow9AgHCo3NpZ8RAqidNckQe+Egqwn+a7HjA9DgX7LFpfAZc3iahTXbHBfBEqvZBlBq+C92Lw9/4t1F16gcD6MS0F5JIrS5QDll9D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN+fkuHSVH57pO1tGaBMWL9o0mBMvlxyH1AOi9nDEbd2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jhthenerd
+
+==================================================================
